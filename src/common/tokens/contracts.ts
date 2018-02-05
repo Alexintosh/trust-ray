@@ -91,5 +91,10 @@ module.exports = {
         id: "",
         name: "DET",
         symbol: "DET"
+    },
+    "0xf41e5fbc2f6aac200dd8619e121ce1f05d150077": {
+        id: "crowdcoin",
+        name: "CrowdCoin",
+        symbol: "CRC"
     }
 }
